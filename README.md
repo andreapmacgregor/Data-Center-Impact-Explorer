@@ -80,7 +80,9 @@ The project combines several publicly available datasets, as follows.
 
 ### Data on Drought
 
-* <mark>Add here - note source(s), reuse permissions, whether data is reposted in this repository</mark>
+* [U.S. Drought Monitor](https://droughtmonitor.unl.edu/):
+The U.S. Drought Monitor is updated weekly with drought data collected across the United States. This data is allowed to be reproduced when this citation is used: 
+The U.S. Drought Monitor is jointly produced by the National Drought Mitigation Center at the University of Nebraska-Lincoln, the United States Department of Agriculture, the National Oceanic and Atmospheric Administration and the National Aeronautics and Space Administration. Map courtesy of NDMC.
 
 ### Data on Electricity
 
